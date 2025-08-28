@@ -1,16 +1,18 @@
-## Hi there 👋
+# ¡Hola! Soy Leila Lescano
 
-<!--
-**LeilaLescano/LeilaLescano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Analista en sistemas**  
+Entusiasta del aprendizaje y la tecnología
+---
 
-Here are some ideas to get you started:
+#  Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Soy Analista en sistemas, apasionada por el desarrollo web y la programación en **Python**. Siempre busco aprender algo nuevo y mejorar mis habilidades para crear soluciones útiles y eficientes.
+
+- 💻 Tecnologías principales:  
+  - Python
+  - Desarrollo Web
+
+- 📚 Siempre aprendiendo:  
+  Me encanta explorar nuevas herramientas, lenguajes y metodologías en el mundo de la tecnología.
+
+---
